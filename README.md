@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [sriramoju.harish@outlook.com](sriramoju.harish@outlook.com)
 
-- 💬 Ask me about Python Coding and Data Analytics and Machine Learning **Python, Julia Data Analytics & Visualizations and Algorithmic Machine Learning modeling**
+- 💬 Ask me about **Python, Julia Data Analytics & Visualizations and Algorithmic Machine Learning modeling**
 
 - 📫 How to reach me **sriramoju.harish@outlook.com**
 
