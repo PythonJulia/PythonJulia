@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harish Sriramoju</h1>
 <h3 align="center">Savvy Python Data Science and Machine Learning Practitioner</h3>
 
+<img align = "right" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pythonjulia&label=Profile%20views&color=0e75b6&style=flat" alt="pythonjulia" /> </p>
 
 - 🔭 I’m currently working as **Data Science Consultant**
